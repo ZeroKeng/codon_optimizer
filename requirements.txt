@@ -10,3 +10,4 @@ biopython==1.78
 bioservices==1.7.11
 biothings-client==0.2.6
 yfinance==0.1.70
+dnachisel==3.2.8
