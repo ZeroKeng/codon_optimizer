@@ -1,7 +1,6 @@
 from operator import length_hint
 from random import seed
 import pandas as pd
-from scvelo import DataFrame
 import streamlit as st
 import numpy as np
 import seaborn as sns
