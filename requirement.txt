@@ -1,0 +1,12 @@
+matplotlib==3.4.2
+streamlit==1.9.0
+pandas==1.2.4
+matplotlib==3.4.2
+scvelo==0.2.4
+numpy==1.21.6
+seaborn==0.11.1
+bio==0.4.1
+biopython==1.78
+bioservices==1.7.11
+biothings-client==0.2.6
+yfinance==0.1.70
