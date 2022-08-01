@@ -1,4 +1,3 @@
-from operator import length_hint
 from random import seed
 import pandas as pd
 import streamlit as st
